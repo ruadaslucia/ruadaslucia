@@ -1,6 +1,11 @@
+### A LITLE ABOUT ME 
+
 - 👋 Hi! I'm Lucía, and I'm happy to see you!
 - 👀 My pronouns are she/her
 - 🌱 I’m currently learning HTML, CSS, JavaScript and a bunch of new things thanks to ADALAB!
+- 
+
+
 
 
 <!---
