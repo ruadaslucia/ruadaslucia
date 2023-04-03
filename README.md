@@ -3,7 +3,7 @@
 - 👋 Hi! I'm Lucía, and I'm happy to see you!
 - 👀 My pronouns are she/her
 - I'm a junior front end developer
-- 🌱 I’m an ADALABER!
+- 🌱 My portfolio: https://ruadaslucia.github.io/PORTFOLIO/
 
 
 
